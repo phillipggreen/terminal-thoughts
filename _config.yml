@@ -65,7 +65,7 @@ theme_mode: dark # or light, or leave empty for toggle
 cdn:
 
 # Avatar and social preview (optional)
-avatar:
+avatar: /assets/img/avatar.png
 social_preview_image:
 
 # Global TOC and Comments
