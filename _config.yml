@@ -1,4 +1,5 @@
 # Import the theme
+# Trigger rebuild
 theme: jekyll-theme-chirpy
 
 # Language and Timezone
