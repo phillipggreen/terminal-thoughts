@@ -22,7 +22,7 @@ twitter:
 
 social:
   name: Phillip Green
-  email: contact@example.com
+  email: phillip.g.green@outlook.com
   links:
     - https://twitter.com/IcePickPhilly
     - https://github.com/phillipggreen
@@ -59,7 +59,7 @@ pageviews:
   provider:
 
 # Color scheme
-theme_mode: dark # or light, or leave empty for toggle
+theme_mode:
 
 # CDN (optional)
 cdn:
