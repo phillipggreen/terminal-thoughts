@@ -35,3 +35,38 @@ To create a new post:
 
 1. Navigate to the `_posts/` directory
 2. Create a new file with the format:
+   ```
+   YYYY-MM-DD-title.md
+   ```
+3. Use the following front matter:
+   ```yaml
+   ---
+   title: "Your Post Title"
+   date: YYYY-MM-DD HH:MM:SS +0000
+   categories: [Your Category]
+   tags: [tag1, tag2]
+   ---
+   ```
+4. Write in Markdown as usual and commit the changes — the post will go live automatically!
+
+---
+
+## 📖 Documentation
+
+For full usage details, customization, and advanced features, check out the [Chirpy theme wiki](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+
+---
+
+## 🤝 Contributing
+
+This is a personal blog, but feel free to open issues if something is broken or if you'd like to fork the structure for your own use!
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Happy coding! 🧐💻
