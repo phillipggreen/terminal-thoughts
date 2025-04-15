@@ -18,14 +18,11 @@ baseurl: "/terminal-thoughts"
 github:
   username: phillipggreen
 
-twitter:
-  username: IcePickPhilly
 
 social:
   name: Phillip Green
   email: phillip.g.green@outlook.com
   links:
-    - https://twitter.com/IcePickPhilly
     - https://github.com/phillipggreen
     - https://www.linkedin.com/in/phillipggreen
 
