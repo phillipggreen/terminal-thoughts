@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Now
+icon: fas fa-bolt
 permalink: /now/
 ---
 
