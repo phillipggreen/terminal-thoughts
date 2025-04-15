@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+icon: fas fa-code-branch
 permalink: /projects/
 ---
 
