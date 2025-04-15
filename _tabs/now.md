@@ -2,6 +2,7 @@
 layout: page
 title: Now
 icon: fas fa-bolt
+order: 3
 permalink: /now/
 ---
 
