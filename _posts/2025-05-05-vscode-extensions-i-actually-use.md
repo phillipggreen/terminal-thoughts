@@ -1,6 +1,6 @@
 ---
 title: "The VS Code Extensions I Actually Use (And Why)"
-date: 2025-05-07 09:00:00 +0000
+date: 2025-05-05 09:00:00 +0000
 categories: [Workflow]
 tags: [VS Code, extensions, tools, productivity]
 ---
